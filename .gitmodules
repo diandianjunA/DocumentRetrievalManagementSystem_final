@@ -1,0 +1,6 @@
+[submodule "DocumentRetrievalManagementSystem"]
+	path = DocumentRetrievalManagementSystem
+	url = https://github.com/diandianjunA/DocumentRetrievalManagementSystem
+[submodule "document_retrieval_management_system"]
+	path = document_retrieval_management_system
+	url = https://github.com/diandianjunA/document_retrieval_management_system
